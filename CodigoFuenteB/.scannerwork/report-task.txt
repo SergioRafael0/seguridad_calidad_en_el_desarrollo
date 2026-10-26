@@ -1,0 +1,6 @@
+projectKey=cuidarteplus
+serverUrl=http://localhost:9000
+serverVersion=26.10.0.133078
+dashboardUrl=http://localhost:9000/dashboard?id=cuidarteplus
+ceTaskId=178dec9d-8a26-4c32-b5fb-203263e5946f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=178dec9d-8a26-4c32-b5fb-203263e5946f
